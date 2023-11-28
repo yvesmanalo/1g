@@ -1,0 +1,1 @@
+document.body.innerHTML='My Name';
